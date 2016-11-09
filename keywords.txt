@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+IO_ADS1115	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+readADC_SingleEnded	KEYWORD2
+readADC_Differential_0_1	KEYWORD2
+readADC_Differential_2_3	KEYWORD2
+startComparator_SingleEnded	KEYWORD2
+getLastConversionResults	KEYWORD2
+setGain	KEYWORD2
+getGain	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
