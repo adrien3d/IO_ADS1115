@@ -1,4 +1,4 @@
-Iotech Arduino Library for
+IoThings Arduino Library for
 Texas Instruments ADS1115 Breakout
 ==============================================================
 

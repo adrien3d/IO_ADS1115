@@ -6,10 +6,10 @@
   These sensors use I2C to communicate, 2 pins are required
   to interface.
 
-  Written by Adrien Chapelet for Iotech
+  Written by Adrien Chapelet for IoThings
  ***************************************************************************/
  
- #define SDA_PORT PORTC
+#define SDA_PORT PORTC
 #define SDA_PIN 2
 #define SCL_PORT PORTC
 #define SCL_PIN 3

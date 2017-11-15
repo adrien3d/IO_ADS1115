@@ -6,7 +6,7 @@
   These sensors use I2C to communicate, 2 pins are required
   to interface.
 
-  Written by Adrien Chapelet for Iotech
+  Written by Adrien Chapelet for IoThings
  ***************************************************************************/
  
 #include <Arduino.h>
